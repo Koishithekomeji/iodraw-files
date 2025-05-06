@@ -22,20 +22,11 @@
         <mxCell id="KofMQiy14ILRChS_AxZQ-3" value="打印未排序的顺序表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="353" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KofMQiy14ILRChS_AxZQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KofMQiy14ILRChS_AxZQ-5" target="KofMQiy14ILRChS_AxZQ-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KofMQiy14ILRChS_AxZQ-5" value="顺序表逆置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KofMQiy14ILRChS_AxZQ-5" value="顺序表排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="353" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KofMQiy14ILRChS_AxZQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KofMQiy14ILRChS_AxZQ-7" target="KofMQiy14ILRChS_AxZQ-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KofMQiy14ILRChS_AxZQ-7" value="打印已逆置顺序表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KofMQiy14ILRChS_AxZQ-7" value="打印已排序顺序表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KofMQiy14ILRChS_AxZQ-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
