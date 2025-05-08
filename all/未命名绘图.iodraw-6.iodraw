@@ -11,7 +11,7 @@
           <mxGeometry x="50" y="90" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TTh9mUGpXJX5GdkS48XD-3" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="161" y="180" width="30" height="30" as="geometry" />
+          <mxGeometry x="170" y="180" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TTh9mUGpXJX5GdkS48XD-4" value="D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="200" y="90" width="30" height="30" as="geometry" />
@@ -60,6 +60,9 @@
             <mxPoint x="140" y="220" as="sourcePoint" />
             <mxPoint x="210" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TTh9mUGpXJX5GdkS48XD-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
