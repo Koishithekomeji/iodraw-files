@@ -10,11 +10,19 @@
         <mxCell id="-KpMT1Swbn9BBPY_k594-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="94" y="40" width="104" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-KpMT1Swbn9BBPY_k594-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-KpMT1Swbn9BBPY_k594-2" target="-KpMT1Swbn9BBPY_k594-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-KpMT1Swbn9BBPY_k594-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;字符串入队、入栈&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="140" width="124" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-KpMT1Swbn9BBPY_k594-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KpMT1Swbn9BBPY_k594-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-KpMT1Swbn9BBPY_k594-6" value="栈顶元素 ==&amp;nbsp;队头元素" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="210" width="142" height="70" as="geometry" />
+          <mxGeometry x="75" y="230" width="142" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
