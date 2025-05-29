@@ -19,6 +19,11 @@
         <mxCell id="-KpMT1Swbn9BBPY_k594-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KpMT1Swbn9BBPY_k594-6" target="-KpMT1Swbn9BBPY_k594-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-KpMT1Swbn9BBPY_k594-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KpMT1Swbn9BBPY_k594-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-KpMT1Swbn9BBPY_k594-6" value="栈顶元素 ==&amp;nbsp;队头元素" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="230" width="142" height="60" as="geometry" />
         </mxCell>
