@@ -19,6 +19,9 @@
         <mxCell id="-KpMT1Swbn9BBPY_k594-6" value="栈顶元素 ==&amp;nbsp;队头元素" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="230" width="142" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-KpMT1Swbn9BBPY_k594-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
