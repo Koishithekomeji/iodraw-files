@@ -55,7 +55,7 @@
         <mxCell id="-KpMT1Swbn9BBPY_k594-18" value="返回值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="88" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-KpMT1Swbn9BBPY_k594-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-KpMT1Swbn9BBPY_k594-19" value="退出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
