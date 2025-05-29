@@ -19,6 +19,12 @@
         <mxCell id="-KpMT1Swbn9BBPY_k594-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-KpMT1Swbn9BBPY_k594-6" target="-KpMT1Swbn9BBPY_k594-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="146" y="210" />
+              <mxPoint x="40" y="210" />
+              <mxPoint x="40" y="310" />
+              <mxPoint x="146" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-KpMT1Swbn9BBPY_k594-6" value="栈顶元素 ==&amp;nbsp;队头元素" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
