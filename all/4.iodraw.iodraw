@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Gmt77RKC91nbg2ZoPaoJ">
-    <mxGraphModel dx="135" dy="272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="500" math="0" shadow="0">
+    <mxGraphModel dx="237" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,15 +15,6 @@
         </mxCell>
         <mxCell id="-KpMT1Swbn9BBPY_k594-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;字符串入队、入栈&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="140" width="124" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-KpMT1Swbn9BBPY_k594-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KpMT1Swbn9BBPY_k594-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="146" y="320" />
-              <mxPoint x="50" y="320" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="-KpMT1Swbn9BBPY_k594-6" value="栈顶元素 ==&amp;nbsp;队头元素" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="230" width="142" height="70" as="geometry" />
