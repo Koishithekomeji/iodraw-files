@@ -19,14 +19,15 @@
         <mxCell id="-KpMT1Swbn9BBPY_k594-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KpMT1Swbn9BBPY_k594-6" target="-KpMT1Swbn9BBPY_k594-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-KpMT1Swbn9BBPY_k594-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="-KpMT1Swbn9BBPY_k594-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-KpMT1Swbn9BBPY_k594-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="510" as="targetPoint" />
-            <mxPoint x="260" y="260" as="sourcePoint" />
+            <mxPoint x="230" y="260" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="273" y="260" />
               <mxPoint x="273" y="440" />
-              <mxPoint x="180" y="440" />
+              <mxPoint x="150" y="440" />
+              <mxPoint x="150" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
