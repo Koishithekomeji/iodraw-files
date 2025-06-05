@@ -36,6 +36,9 @@
         <mxCell id="XneXLP1htm1F1ihZ-DeG-8" value="root = root -&amp;gt; left&lt;div&gt;root = root -&amp;gt; right&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XneXLP1htm1F1ihZ-DeG-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
