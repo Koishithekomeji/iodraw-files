@@ -10,6 +10,12 @@
         <mxCell id="jTXHsUD-bBGdF9ue28us-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="jTXHsUD-bBGdF9ue28us-1" target="jTXHsUD-bBGdF9ue28us-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jTXHsUD-bBGdF9ue28us-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="jTXHsUD-bBGdF9ue28us-1" target="jTXHsUD-bBGdF9ue28us-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTXHsUD-bBGdF9ue28us-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="jTXHsUD-bBGdF9ue28us-1" target="jTXHsUD-bBGdF9ue28us-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jTXHsUD-bBGdF9ue28us-1" value="身份证管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-145" y="280" width="120" height="60" as="geometry" />
         </mxCell>
