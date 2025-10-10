@@ -22,7 +22,7 @@
         <mxCell id="jTXHsUD-bBGdF9ue28us-8" value="删除指定身份证信息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="26" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jTXHsUD-bBGdF9ue28us-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="jTXHsUD-bBGdF9ue28us-9" value="根据出生日期查询人员" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-30" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
