@@ -10,8 +10,8 @@
         <mxCell id="jTXHsUD-bBGdF9ue28us-4" value="输入身份证信息并保存到文件" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="26" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jTXHsUD-bBGdF9ue28us-5" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #7ca668;&quot;&gt;根据身份证号查询信息&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="jTXHsUD-bBGdF9ue28us-5" value="根据身份证号查询信息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="26" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
