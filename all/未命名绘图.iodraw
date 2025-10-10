@@ -16,7 +16,7 @@
         <mxCell id="jTXHsUD-bBGdF9ue28us-6" value="根据省份编号统计人数" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="26" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jTXHsUD-bBGdF9ue28us-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="jTXHsUD-bBGdF9ue28us-7" value="修改指定身份证信息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="26" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
