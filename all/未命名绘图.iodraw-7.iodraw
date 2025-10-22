@@ -20,25 +20,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-12" value="创建新节点" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3778gIIZEhMjzxIWCFY-14" target="c3778gIIZEhMjzxIWCFY-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-14" value="输入信息" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3778gIIZEhMjzxIWCFY-16" target="c3778gIIZEhMjzxIWCFY-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-16" value="添加到链表尾部" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3778gIIZEhMjzxIWCFY-18" target="c3778gIIZEhMjzxIWCFY-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-18" value="保存到文件" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3778gIIZEhMjzxIWCFY-20" target="c3778gIIZEhMjzxIWCFY-6">
           <mxGeometry relative="1" as="geometry">
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-20" value="是否继续" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1120" width="160" height="80" as="geometry" />
+          <mxGeometry x="60" y="1080" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
