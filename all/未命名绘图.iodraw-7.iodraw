@@ -156,9 +156,6 @@
         <mxCell id="5mR84HZi8WTeJfV-0uEc-40" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5mR84HZi8WTeJfV-0uEc-42" value="ModifyID()" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="327" y="840" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="5mR84HZi8WTeJfV-0uEc-49" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="940" width="120" height="60" as="geometry" />
         </mxCell>
@@ -207,7 +204,7 @@
           <mxGeometry x="300" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5mR84HZi8WTeJfV-0uEc-68" value="SearchByProvince()" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="370" y="860" width="140" height="40" as="geometry" />
+          <mxGeometry x="305" y="840" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
