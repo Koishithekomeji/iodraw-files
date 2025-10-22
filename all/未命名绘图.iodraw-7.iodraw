@@ -34,8 +34,14 @@
         <mxCell id="c3778gIIZEhMjzxIWCFY-16" value="添加到链表尾部" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c3778gIIZEhMjzxIWCFY-18" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="c3778gIIZEhMjzxIWCFY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3778gIIZEhMjzxIWCFY-18" target="c3778gIIZEhMjzxIWCFY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3778gIIZEhMjzxIWCFY-18" value="保存到文件" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c3778gIIZEhMjzxIWCFY-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
