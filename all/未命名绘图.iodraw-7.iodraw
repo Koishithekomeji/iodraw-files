@@ -36,8 +36,14 @@
         <mxCell id="BIC0aIyxnrurMkGgjzy7-13" value="是否存在匹配节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="680" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BIC0aIyxnrurMkGgjzy7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIC0aIyxnrurMkGgjzy7-15" target="BIC0aIyxnrurMkGgjzy7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BIC0aIyxnrurMkGgjzy7-15" value="显示信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BIC0aIyxnrurMkGgjzy7-19" value="显示信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
