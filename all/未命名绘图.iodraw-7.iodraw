@@ -250,10 +250,13 @@
           <mxGeometry x="220" y="1159" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5mR84HZi8WTeJfV-0uEc-80" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="220" y="929" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="819" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5mR84HZi8WTeJfV-0uEc-81" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="220" y="1048" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mR84HZi8WTeJfV-0uEc-82" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="939" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
