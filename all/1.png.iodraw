@@ -267,6 +267,9 @@
         <mxCell id="5mR84HZi8WTeJfV-0uEc-85" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="140" y="349" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5mR84HZi8WTeJfV-0uEc-86" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="140" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
