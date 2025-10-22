@@ -40,7 +40,7 @@
         <mxCell id="c3778gIIZEhMjzxIWCFY-18" value="保存到文件" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c3778gIIZEhMjzxIWCFY-20" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="c3778gIIZEhMjzxIWCFY-20" value="是否继续" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="1120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
