@@ -30,8 +30,8 @@
         <mxCell id="BIC0aIyxnrurMkGgjzy7-11" value="遍历链表查找匹配节点&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BIC0aIyxnrurMkGgjzy7-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="730" width="180" height="80" as="geometry" />
+        <mxCell id="BIC0aIyxnrurMkGgjzy7-13" value="是否存在匹配节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="730" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
