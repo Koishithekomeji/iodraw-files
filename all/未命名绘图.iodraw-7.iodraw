@@ -10,8 +10,14 @@
         <mxCell id="BIC0aIyxnrurMkGgjzy7-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BIC0aIyxnrurMkGgjzy7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BIC0aIyxnrurMkGgjzy7-6" target="BIC0aIyxnrurMkGgjzy7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BIC0aIyxnrurMkGgjzy7-6" value="输入要查询的身份号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="65" y="360" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BIC0aIyxnrurMkGgjzy7-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="515" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
