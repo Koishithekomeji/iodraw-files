@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-18" value="保存到文件" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c3778gIIZEhMjzxIWCFY-20">
           <mxGeometry relative="1" as="geometry">
@@ -53,16 +53,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-20" value="是否继续" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1010" width="160" height="80" as="geometry" />
+          <mxGeometry x="60" y="980" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3778gIIZEhMjzxIWCFY-23" target="c3778gIIZEhMjzxIWCFY-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-23" value="返回头指针" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-25" value="结束" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c3778gIIZEhMjzxIWCFY-27" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="490" width="60" height="30" as="geometry" />
