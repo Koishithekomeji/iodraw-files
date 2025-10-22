@@ -62,11 +62,14 @@
         <mxCell id="5mR84HZi8WTeJfV-0uEc-20" value="输入为1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="79" y="690" width="134" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5mR84HZi8WTeJfV-0uEc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="5mR84HZi8WTeJfV-0uEc-23" target="5mR84HZi8WTeJfV-0uEc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5mR84HZi8WTeJfV-0uEc-23" value="输入为1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="79" y="810" width="134" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5mR84HZi8WTeJfV-0uEc-24" value="输入为1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="109" y="600" width="134" height="80" as="geometry" />
+          <mxGeometry x="79" y="930" width="134" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
