@@ -31,7 +31,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5mR84HZi8WTeJfV-0uEc-7" value="显示主菜单" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="109.38" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="87" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5mR84HZi8WTeJfV-0uEc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="5mR84HZi8WTeJfV-0uEc-13">
           <mxGeometry relative="1" as="geometry">
@@ -131,13 +131,14 @@
         <mxCell id="5mR84HZi8WTeJfV-0uEc-36" value="AddID()" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="340" y="600" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5mR84HZi8WTeJfV-0uEc-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="5mR84HZi8WTeJfV-0uEc-37" target="5mR84HZi8WTeJfV-0uEc-7">
+        <mxCell id="5mR84HZi8WTeJfV-0uEc-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="730" as="targetPoint" />
+            <mxPoint x="212.00000000000006" y="415" as="targetPoint" />
+            <mxPoint x="305" y="720" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="253" y="730" />
-              <mxPoint x="253" y="410" />
-              <mxPoint x="206" y="410" />
+              <mxPoint x="258" y="720" />
+              <mxPoint x="258" y="400" />
+              <mxPoint x="211" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
