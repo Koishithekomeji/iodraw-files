@@ -10,14 +10,13 @@
         <mxCell id="yhZA4PyDIyp43kmQTGFA-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yhZA4PyDIyp43kmQTGFA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhZA4PyDIyp43kmQTGFA-3" target="yhZA4PyDIyp43kmQTGFA-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yhZA4PyDIyp43kmQTGFA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhZA4PyDIyp43kmQTGFA-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yhZA4PyDIyp43kmQTGFA-3" value="输入对应身份证号码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="210" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yhZA4PyDIyp43kmQTGFA-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
