@@ -19,7 +19,7 @@
         <mxCell id="0NgQ6gcdxItq2soDTD62-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-4" target="0NgQ6gcdxItq2soDTD62-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0NgQ6gcdxItq2soDTD62-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-23" target="0NgQ6gcdxItq2soDTD62-20">
+        <mxCell id="0NgQ6gcdxItq2soDTD62-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-4" target="0NgQ6gcdxItq2soDTD62-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0NgQ6gcdxItq2soDTD62-4" value="打开是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -63,14 +63,8 @@
         <mxCell id="0NgQ6gcdxItq2soDTD62-20" value="提示并返回空链表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0NgQ6gcdxItq2soDTD62-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-4" target="0NgQ6gcdxItq2soDTD62-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="280" as="sourcePoint" />
-            <mxPoint x="360" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0NgQ6gcdxItq2soDTD62-23" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
