@@ -28,7 +28,7 @@
         <mxCell id="0NgQ6gcdxItq2soDTD62-6" value="初始化空链表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0NgQ6gcdxItq2soDTD62-8" value="循环读取每一行" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0NgQ6gcdxItq2soDTD62-8" value="循环读取每一行，按分隔符解析字段" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
