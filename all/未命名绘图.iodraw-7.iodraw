@@ -52,11 +52,12 @@
         <mxCell id="0NgQ6gcdxItq2soDTD62-18" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="70" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0NgQ6gcdxItq2soDTD62-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-20">
+        <mxCell id="0NgQ6gcdxItq2soDTD62-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-20" target="0NgQ6gcdxItq2soDTD62-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="710" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="710" />
+              <mxPoint x="130" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
