@@ -36,14 +36,8 @@
         <mxCell id="yhZA4PyDIyp43kmQTGFA-12" value="删除对应节点并保存至文件中" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yhZA4PyDIyp43kmQTGFA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhZA4PyDIyp43kmQTGFA-14" target="yhZA4PyDIyp43kmQTGFA-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="yhZA4PyDIyp43kmQTGFA-14" value="删除成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yhZA4PyDIyp43kmQTGFA-18" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
