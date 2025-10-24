@@ -34,14 +34,17 @@
         <mxCell id="0NgQ6gcdxItq2soDTD62-8" value="循环读取每一行，按分隔符解析字段" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0NgQ6gcdxItq2soDTD62-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-10" target="0NgQ6gcdxItq2soDTD62-14">
+        <mxCell id="0NgQ6gcdxItq2soDTD62-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-10" target="0NgQ6gcdxItq2soDTD62-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0NgQ6gcdxItq2soDTD62-10" value="创造新节点并填入数据，将节点添加至链表尾部" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="530" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0NgQ6gcdxItq2soDTD62-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="70" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="0NgQ6gcdxItq2soDTD62-16" value="关闭文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NgQ6gcdxItq2soDTD62-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
