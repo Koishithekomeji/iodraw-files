@@ -36,8 +36,14 @@
         <mxCell id="yhZA4PyDIyp43kmQTGFA-12" value="删除对应节点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yhZA4PyDIyp43kmQTGFA-14" value="删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yhZA4PyDIyp43kmQTGFA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhZA4PyDIyp43kmQTGFA-14" target="yhZA4PyDIyp43kmQTGFA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhZA4PyDIyp43kmQTGFA-14" value="写入文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yhZA4PyDIyp43kmQTGFA-16" value="写入文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
