@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gPS2Uks38TTA1G0z3CZ2">
-    <mxGraphModel dx="434" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="500" math="0" shadow="0">
+    <mxGraphModel dx="620" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,6 +17,9 @@
           <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0NgQ6gcdxItq2soDTD62-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-4" target="0NgQ6gcdxItq2soDTD62-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NgQ6gcdxItq2soDTD62-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-4" target="0NgQ6gcdxItq2soDTD62-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0NgQ6gcdxItq2soDTD62-4" value="打开是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -40,11 +43,22 @@
         <mxCell id="0NgQ6gcdxItq2soDTD62-10" value="创造新节点并填入数据，将节点添加至链表尾部" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="530" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0NgQ6gcdxItq2soDTD62-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-16" target="0NgQ6gcdxItq2soDTD62-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0NgQ6gcdxItq2soDTD62-16" value="关闭文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0NgQ6gcdxItq2soDTD62-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="0NgQ6gcdxItq2soDTD62-18" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NgQ6gcdxItq2soDTD62-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgQ6gcdxItq2soDTD62-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0NgQ6gcdxItq2soDTD62-20" value="提示并返回空链表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
