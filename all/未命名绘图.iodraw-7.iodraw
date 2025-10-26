@@ -7,7 +7,7 @@
         <mxCell id="UynmUp7tteky57O-nXdL-1" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: 22px; overflow: auto; word-break: break-all; padding: 16px; text-align: start; margin: 0px !important;&quot;&gt;main/ShowMenu&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UynmUp7tteky57O-nXdL-2" value="[AddID/ModifyID/DeleteID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UynmUp7tteky57O-nXdL-2" value="AddID/ModifyID/DeleteID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="270" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
