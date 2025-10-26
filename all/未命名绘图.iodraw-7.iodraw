@@ -46,9 +46,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UynmUp7tteky57O-nXdL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UynmUp7tteky57O-nXdL-3" target="UynmUp7tteky57O-nXdL-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UynmUp7tteky57O-nXdL-3" value="SearchByID/SearchByProvince/SearchByBirthday" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="290" height="60" as="geometry" />
         </mxCell>
