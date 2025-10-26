@@ -10,6 +10,9 @@
         <mxCell id="UynmUp7tteky57O-nXdL-2" value="AddID/ModifyID/DeleteID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="270" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UynmUp7tteky57O-nXdL-3" value="SearchByID/SearchByProvince/SearchByBirthday" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
