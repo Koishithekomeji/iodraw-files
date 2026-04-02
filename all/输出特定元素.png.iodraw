@@ -1,0 +1,31 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1134" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="N4c00fUQkEw-68_h9iGQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;fontFamily=Times New Roman;fontColor=default;labelBackgroundColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4c00fUQkEw-68_h9iGQ-0" target="N4c00fUQkEw-68_h9iGQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N4c00fUQkEw-68_h9iGQ-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Times New Roman;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="100" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N4c00fUQkEw-68_h9iGQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;fontFamily=Times New Roman;fontColor=default;labelBackgroundColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4c00fUQkEw-68_h9iGQ-3" target="N4c00fUQkEw-68_h9iGQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N4c00fUQkEw-68_h9iGQ-3" value="L、i" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;fontSize=25;fontFamily=Times New Roman;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="360" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N4c00fUQkEw-68_h9iGQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;fontFamily=Times New Roman;fontColor=default;labelBackgroundColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N4c00fUQkEw-68_h9iGQ-5" target="N4c00fUQkEw-68_h9iGQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N4c00fUQkEw-68_h9iGQ-5" value="打印&lt;span style=&quot;font-size: 25px; white-space: pre;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;font-size: 25px; white-space: pre;&quot;&gt;[i&lt;/span&gt;&lt;span style=&quot;font-size: 25px; white-space: pre;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-size: 25px; white-space: pre;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size: 25px; white-space: pre;&quot;&gt;]&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;fontSize=25;fontFamily=Times New Roman;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="620" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N4c00fUQkEw-68_h9iGQ-7" value="结束" style="whiteSpace=wrap;html=1;rounded=1;arcSize=39;fontSize=25;fontFamily=Times New Roman;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="910" width="220" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
