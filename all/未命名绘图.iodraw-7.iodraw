@@ -24,7 +24,7 @@
         <mxCell id="QIby3kBc0vMaEOPmNWiO-1" value="保存为临时文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-3" value="调用OssUploader上传至OSS获取公网URL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
