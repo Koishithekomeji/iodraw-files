@@ -18,11 +18,14 @@
         <mxCell id="QIby3kBc0vMaEOPmNWiO-0" value="接收前端上传的WAV音频文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-1" target="QIby3kBc0vMaEOPmNWiO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QIby3kBc0vMaEOPmNWiO-1" value="保存为临时文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QIby3kBc0vMaEOPmNWiO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
