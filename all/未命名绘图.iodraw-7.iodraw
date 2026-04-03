@@ -24,8 +24,14 @@
         <mxCell id="QIby3kBc0vMaEOPmNWiO-1" value="保存为临时文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-3" target="QIby3kBc0vMaEOPmNWiO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QIby3kBc0vMaEOPmNWiO-3" value="调用OssUploader上传至OSS获取公网URL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-5" value="构建TranscriptionParam 设置model=paraformer-v1 设置fileUrls和apiKey" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="520" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
