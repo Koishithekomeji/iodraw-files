@@ -42,7 +42,7 @@
         <mxCell id="QIby3kBc0vMaEOPmNWiO-7" value="构建TranscriptionParam 设置model=paraformer-v1 设置fileUrls和apiKey" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="585" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-9" target="QIby3kBc0vMaEOPmNWiO-11">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-9" target="QIby3kBc0vMaEOPmNWiO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QIby3kBc0vMaEOPmNWiO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-9" target="QIby3kBc0vMaEOPmNWiO-9">
@@ -58,39 +58,39 @@
         <mxCell id="QIby3kBc0vMaEOPmNWiO-9" value="任务是否完成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="720" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-11" target="QIby3kBc0vMaEOPmNWiO-14">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-11" target="QIby3kBc0vMaEOPmNWiO-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-11" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;获取识别结果JSON，解析results[0].transcription_url&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-11" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start;&quot;&gt;获取识别结果JSON，解析results[0].transcription_url&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;labelBackgroundColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="850" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-14" target="QIby3kBc0vMaEOPmNWiO-16">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-14" target="QIby3kBc0vMaEOPmNWiO-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-14" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(21, 21, 23);&quot;&gt;下载transcription_url，提取transcripts[0].text&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-14" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start;&quot;&gt;下载transcription_url，提取transcripts[0].text&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;labelBackgroundColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-16" target="QIby3kBc0vMaEOPmNWiO-18">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-16" target="QIby3kBc0vMaEOPmNWiO-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-16" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(21, 21, 23);&quot;&gt;调用Qwen大模型解析文本，返回AccountingVoucher&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-16" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start;&quot;&gt;调用Qwen大模型解析文本，返回AccountingVoucher&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;labelBackgroundColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-18" target="QIby3kBc0vMaEOPmNWiO-20">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-18" target="QIby3kBc0vMaEOPmNWiO-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-18" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(21, 21, 23);&quot;&gt;删除临时文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-18" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start;&quot;&gt;删除临时文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;labelBackgroundColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-20" target="QIby3kBc0vMaEOPmNWiO-24">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-20" target="QIby3kBc0vMaEOPmNWiO-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-20" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(21, 21, 23);&quot;&gt;返回voucher给前端&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-20" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start;&quot;&gt;返回voucher给前端&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#000000;labelBackgroundColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-24" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(21, 21, 23);&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-24" value="&lt;span style=&quot;font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;labelBackgroundColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
