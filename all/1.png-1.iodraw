@@ -38,11 +38,6 @@
         <mxCell id="QIby3kBc0vMaEOPmNWiO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-9" target="QIby3kBc0vMaEOPmNWiO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QIby3kBc0vMaEOPmNWiO-9" value="&lt;span style=&quot;color: rgb(249, 250, 251); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(21, 21, 23);&quot;&gt;用户确认？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="720" width="210" height="80" as="geometry" />
         </mxCell>
@@ -84,18 +79,8 @@
         <mxCell id="QIby3kBc0vMaEOPmNWiO-26" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="810" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369" y="1510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="350" y="760" />
-              <mxPoint x="350" y="1135" />
-              <mxPoint x="369" y="1135" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QIby3kBc0vMaEOPmNWiO-31" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="710" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="730" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
