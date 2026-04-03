@@ -45,6 +45,11 @@
         <mxCell id="QIby3kBc0vMaEOPmNWiO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-9" target="QIby3kBc0vMaEOPmNWiO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QIby3kBc0vMaEOPmNWiO-9" value="任务是否完成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115" y="720" width="210" height="80" as="geometry" />
         </mxCell>
