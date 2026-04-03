@@ -45,12 +45,13 @@
         <mxCell id="QIby3kBc0vMaEOPmNWiO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-9" target="QIby3kBc0vMaEOPmNWiO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QIby3kBc0vMaEOPmNWiO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-9">
+        <mxCell id="QIby3kBc0vMaEOPmNWiO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QIby3kBc0vMaEOPmNWiO-9" target="QIby3kBc0vMaEOPmNWiO-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="680" as="targetPoint" />
+            <mxPoint x="330" y="670" as="targetPoint" />
             <Array as="points">
               <mxPoint x="390" y="760" />
               <mxPoint x="390" y="680" />
+              <mxPoint x="220" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
